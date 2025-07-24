@@ -51,7 +51,7 @@
 
     * [**Connect via LinkedIn**](https://www.linkedin.com/in/shekhar-singh-084336259/)
 
-    * [**Visit my Website**](https://github.com/HackerBoyShekhar/HackerBoyShekhar/edit/main)
+    * [**Visit my Website**](https://github.com/HackerBoyShekhar)
     
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
