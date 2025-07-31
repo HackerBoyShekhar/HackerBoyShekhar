@@ -21,7 +21,7 @@
 
 <br/>
 
-- 🙌 I'm currently open to: **Software Development Engineer intern roles**
+- 🙌 I'm currently open to: **Software Development Engineer Intern roles**
 
 <br/><br/>
 
